@@ -1,0 +1,2 @@
+...Administrator Privilege is required to install the driver
+...Please consult the README.txt for install/uninstall instruction
